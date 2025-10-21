@@ -1,8 +1,3 @@
-Voici un fichier `README.md` complet pour le projet `TP-4-Hibernate`.
-
-Ce `README` est basé sur la convention de nommage (`TP-4-Hibernate`) qui suggère un projet académique (Travaux Pratiques) utilisant **Java** et la librairie d'Object-Relational Mapping **Hibernate**, probablement configuré avec **Maven** ou **Gradle**.
-
----
 
 # TP-4-Hibernate
 
